@@ -14,8 +14,8 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-3">Services</h4>
           <p>Branding</p>
-          <p>UI/UX</p>
-          <p>Development</p>
+          <p>Editing</p>
+          <p>AI Video Production</p>
         </div>
 
         <div>

@@ -9,7 +9,7 @@ import ProjectsSection from "../components/ProjectsSection";
 import CTASection from "../components/CTASection";
 import ContactSection from "../components/ContactSection";
 import PortfolioSection from "../components/PortfolioSection";
-import Navbar from "../Components/Navbar";
+import Navbar from "../components/Navbar"
 
 
 
